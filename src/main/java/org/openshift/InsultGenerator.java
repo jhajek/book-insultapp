@@ -38,6 +38,6 @@ public class InsultGenerator {
 		catch (Exception e) {
 			return "Database connection problem!";
 		} // end of catch block
-	return theInstult;
+	return theInsult;
 	} //end of generateInsult()
 } // end of class
